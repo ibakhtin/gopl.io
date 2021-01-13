@@ -1,9 +1,9 @@
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
+// Copyright © 2021 Igor Bakhtin
 // License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 // See page 8.
 
-// Echo3 prints its command-line arguments.
+// Exercise 1.1
 package main
 
 import (
